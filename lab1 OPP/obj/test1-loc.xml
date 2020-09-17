@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\#208;#157;#208;#190;#208;#178;#208;#176;#209;#143; #208;#191;#208;#176;#208;#191;#208;#186;#208;#176;\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 107" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\#208;#157;#208;#190;#208;#178;#208;#176;#209;#143; #208;#191;#208;#176;#208;#191;#208;#186;#208;#176;\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\#208;#157;#208;#190;#208;#178;#208;#176;#209;#143; #208;#191;#208;#176;#208;#191;#208;#186;#208;#176;\src\data.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 230" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\#208;#157;#208;#190;#208;#178;#208;#176;#209;#143; #208;#191;#208;#176;#208;#191;#208;#186;#208;#176;\src\data.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\#208;#157;#208;#190;#208;#178;#208;#176;#209;#143; #208;#191;#208;#176;#208;#191;#208;#186;#208;#176;\src\data.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\#208;#157;#208;#190;#208;#178;#208;#176;#209;#143; #208;#191;#208;#176;#208;#191;#208;#186;#208;#176;\src\data.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\#208;#157;#208;#190;#208;#178;#208;#176;#209;#143; #208;#191;#208;#176;#208;#191;#208;#186;#208;#176;\src\data.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 107" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\test\src\data.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\test\src\data.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 47" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\test\src\data.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\test\src\test.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\test\src\test.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\test\src\test.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\test\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
